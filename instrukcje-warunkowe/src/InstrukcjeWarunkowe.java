@@ -78,7 +78,7 @@ public class InstrukcjeWarunkowe {
 
         // POBIERANIE CYFR WPISANYCH PRZEZ UŻYTKOWNIKA
         Scanner scannerCyfr = new Scanner(System.in);
-        
+
 
     }
 }
